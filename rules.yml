@@ -1,0 +1,33 @@
+rules:
+  - name: Direct
+    source: direct.txt
+
+  - name: Proxy
+    source: proxy.txt
+
+  - name: Reject
+    source: reject.txt
+
+  - name: Private
+    source: private.txt
+
+  - name: Apple
+    source: apple.txt
+
+  - name: iCloud
+    source: icloud.txt
+
+  - name: Google
+    source: google.txt
+
+  - name: GFW
+    source: gfw.txt
+
+  - name: TLD-Not-CN
+    source: tld-not-cn.txt
+
+  - name: Telegram
+    source: telegramcidr.txt
+
+  - name: CN-CIDR
+    source: cncidr.txt
