@@ -1,6 +1,6 @@
 name = Proxy
 # Source: ruleset/proxy.txt
-# Rules: 27358
+# Rules: 27247
 
 2, 1password.drift.click
 2, 3dns-1.adobe.com
@@ -1107,7 +1107,6 @@ name = Proxy
 2, 3xxx.pro
 2, 404museum.com
 2, 40momporntube.com
-2, 40shopping.com
 2, 40somethingmag.com
 2, 41maonn.com
 2, 444.coffee
@@ -1404,7 +1403,6 @@ name = Proxy
 2, aaex.uk
 2, aalah.me
 2, aamacau.com
-2, aanaan.com
 2, aapl.tw
 2, aaplimg.com
 2, aave.com
@@ -1772,7 +1770,6 @@ name = Proxy
 2, advertfan.com
 2, advertisercommunity.com
 2, adx.promo
-2, aeasyshop.com
 2, aebn.com
 2, aecexcellence.com
 2, aei.org
@@ -1944,7 +1941,6 @@ name = Proxy
 2, airiti.com
 2, airitilibrary.com
 2, airmax360.com
-2, airmay.com
 2, airport-gov-cn.com
 2, airport.brussels
 2, airport.com
@@ -2007,7 +2003,6 @@ name = Proxy
 2, aizyk.xyz
 2, ajplus.net
 2, ajsjx.com
-2, ajtalk.com
 2, ak1.net
 2, aka-ai.com
 2, aka-ai.net
@@ -2550,7 +2545,6 @@ name = Proxy
 2, annas-archive.gd
 2, annas-archive.gl
 2, annas-archive.pk
-2, annstores.net
 2, annualpelvicexam.com
 2, annualreviews.org
 2, anobii.com
@@ -2595,7 +2589,6 @@ name = Proxy
 2, aoc.cat
 2, aodahl.com
 2, aofriend.com
-2, aokwholesale.net
 2, aolcdn.com
 2, aomedia.org
 2, aomiwang.com
@@ -3682,7 +3675,6 @@ name = Proxy
 2, badteenspunished.com
 2, badvirtue.com
 2, baeb.com
-2, bag-glasses1.com
 2, bahamut.com.tw
 2, bai29.xyz
 2, baicaonetwork.com
@@ -3707,7 +3699,6 @@ name = Proxy
 2, bandag.cc
 2, bandag.com
 2, bandcamp.com
-2, bandgirlz.com
 2, bandpage.com
 2, bandwagonhost.com
 2, bang-dream.com
@@ -3782,7 +3773,6 @@ name = Proxy
 2, battlefrontii.com
 2, battlelog.com
 2, battleye.com
-2, baxsound.com
 2, bayareabmw.com
 2, bayvoice.net
 2, bazel.build
@@ -3805,7 +3795,6 @@ name = Proxy
 2, bbcpersian.com
 2, bbcpornonly.com
 2, bbcverticals.com
-2, bbestmall.com
 2, bbg.gov
 2, bbgevent.com
 2, bbgwatch.com
@@ -4153,7 +4142,6 @@ name = Proxy
 2, beget.ru
 2, beget.tech
 2, begetcdn.cloud
-2, begin-trade.com
 2, behance.net
 2, behindthescreenz.com
 2, beibao.com
@@ -4362,7 +4350,6 @@ name = Proxy
 2, bigtitvenera.com
 2, bigtopsites.com
 2, biguz.net
-2, biitii.com
 2, bijukujo.club
 2, bikaa.xyz
 2, bikac.xyz
@@ -4697,7 +4684,6 @@ name = Proxy
 2, bloombergvault.com
 2, bloombergview.com
 2, bloomfortune.com
-2, bloommicroventures.com
 2, bloomsburycollections.com
 2, bloomsburydesignlibrary.com
 2, blowjobit.com
@@ -5183,7 +5169,6 @@ name = Proxy
 2, bookmark.xxx
 2, bookmate.ru
 2, bookmybridgestonetyre.com
-2, bookonsky.net
 2, books.com.tw
 2, booksc.eu
 2, booksc.me
@@ -5221,7 +5206,6 @@ name = Proxy
 2, bosharso.net
 2, boslife.biz
 2, boslife.net
-2, bossae.com
 2, bossagency.co.uk
 2, boswp.com
 2, botanwang.com
@@ -5270,11 +5254,7 @@ name = Proxy
 2, braintreeps.com
 2, branchportal.com
 2, brand-protection-team.com
-2, brandeasygo.com
-2, brandelectronic.com
 2, brandporno.com
-2, brandproducts1688.com
-2, brands098.com
 2, brantect.com
 2, brasilincesto.com
 2, brasiltudoliberado.com
@@ -5495,7 +5475,6 @@ name = Proxy
 2, businessinsider.nl
 2, businessinsider.sg
 2, businesstoday.com.tw
-2, businesswebwise.com
 2, businessweek.com
 2, businessweekly.com.tw
 2, businessweekmag.com
@@ -5515,7 +5494,6 @@ name = Proxy
 2, bustysammieblack.com
 2, busu.org
 2, busybox.net
-2, buy-from-shanghai.com
 2, buyaapl.com
 2, buyaapl.net
 2, buyaltera.com
@@ -5545,8 +5523,6 @@ name = Proxy
 2, buypass.no
 2, buypass.se
 2, buyservices.com
-2, buyshoponly.com
-2, buzzardflapper.com
 2, buzzav.com
 2, buzzorange.com
 2, buzzsprout.com
@@ -6116,8 +6092,6 @@ name = Proxy
 2, cheapestbeatsdrdre.com
 2, cheapheadphonesland.com
 2, cheapheadphonessale.com
-2, cheapheadsetmall.com
-2, cheapheadsetshop.com
 2, cheapmonsterbeatsbydrdre.com
 2, cheapmonsterbeatsheadsets.com
 2, cheapmonsterbeatssale.com
@@ -6127,11 +6101,8 @@ name = Proxy
 2, cheapnikedunks.com
 2, cheapnikeoutlet.com
 2, cheapsalemonster.com
-2, cheapshoesvip.com
-2, cheapwireless04.com
 2, cheapwirelessbeats.com
 2, checkgfw.com
-2, cheerwholesale.us
 2, chef.io
 2, chegg.com
 2, cheggcdn.com
@@ -6166,7 +6137,6 @@ name = Proxy
 2, chickstagram.com
 2, chickteases.com
 2, chid.com.mm
-2, chihair-straightener.com
 2, chii.in
 2, chikiporn.com
 2, chikubank.co.jp
@@ -6189,7 +6159,6 @@ name = Proxy
 2, chinaaid.us
 2, chinachange.org
 2, chinachannel.hk
-2, chinaclothesstore.com
 2, chinadecoding.com
 2, chinademocrats.org
 2, chinadialogue.net
@@ -6277,7 +6246,6 @@ name = Proxy
 2, cian.ru
 2, cian.site
 2, ciangroup.ru
-2, ciattackers.com
 2, cibank.ru
 2, cici.com
 2, ciciai.com
@@ -6505,9 +6473,9 @@ name = Proxy
 2, cm.expert
 2, cmcn.org
 2, cmegroup.com
-2, cmhalq.com
 2, cmi.org.tw
 2, cmmedia.com.tw
+2, cmoney.tw
 2, cmpaas.com
 2, cmrbank.ru
 2, cms-twdigitalassets.com
@@ -6547,7 +6515,6 @@ name = Proxy
 2, cnnpolitics.com
 2, cnpmjs.org
 2, cnpolitics.org
-2, cnshopin.com
 2, cnyes.com
 2, cnzjp.xyz
 2, co.ng.mil
@@ -6795,7 +6762,6 @@ name = Proxy
 2, cpu-monkey.com
 2, cpz.to
 2, cq99.us
-2, cqcorea.com
 2, crabporn.com
 2, crackle.com
 2, craftifyx.com
@@ -6925,7 +6891,6 @@ name = Proxy
 2, cuckwatchingwife.com
 2, cuckwimp.com
 2, cuebic.biz
-2, cuffiesaldi.com
 2, cuhk.hk
 2, cuinc.oen.tw
 2, cuinc.tw
@@ -7069,7 +7034,6 @@ name = Proxy
 2, dandanplay.com
 2, dandanplay.net
 2, dandanzan.cc
-2, danemarket.com
 2, danke4china.net
 2, danmarkbeatsbydrdre.com
 2, danskpornofilm.com
@@ -7437,7 +7401,6 @@ name = Proxy
 2, desktopmovies.org
 2, dessci.com
 2, destinationbim.com
-2, detaliczny.com
 2, detentiongirls.com
 2, detodosparatodos.org
 2, detpress.com
@@ -8097,7 +8060,6 @@ name = Proxy
 2, dtci.technology
 2, dtiblog.com
 2, dtic.mil
-2, dtsell.com
 2, dtv2009offers.com
 2, dtvce.com
 2, dualeotruyen1s.com
@@ -8257,6 +8219,7 @@ name = Proxy
 2, e-goods.ru
 2, e-hentai.org
 2, e-hentaidb.com
+2, e-info.org.tw
 2, e-szigno.hu
 2, e-tugra.com
 2, e-zone.com.hk
@@ -8284,7 +8247,6 @@ name = Proxy
 2, eaplay.com
 2, earlytibet.com
 2, earngeek.com
-2, earphonescheapest.com
 2, earpod.net
 2, earthdell.com
 2, earthvpn.com
@@ -8498,7 +8460,6 @@ name = Proxy
 2, ebscohost.com
 2, ebtcbank.com
 2, ebuyer.com
-2, ebuyheadphones.com
 2, ecbsn.com
 2, ecchinohentai.ru
 2, ecert.gov.hk
@@ -8926,7 +8887,6 @@ name = Proxy
 2, estudiopenthouse.com
 2, esurance.com
 2, etbc.com.hk
-2, etheadphones.com
 2, etherdelta.com
 2, ethereum.foundation
 2, ethereum.org
@@ -9368,7 +9328,6 @@ name = Proxy
 2, familyswap.xxx
 2, famima.vn
 2, famitsu.com
-2, famosascalvas.com
 2, famous-nudes.com
 2, famousinternetgirls.com
 2, famousinternetgirlsgalleries.com
@@ -10122,11 +10081,9 @@ name = Proxy
 2, frcasquesbeats.com
 2, freakshare.com
 2, free-3d-porn.com
-2, free-aa.com
 2, free-abbywinters.com
 2, free-avx.jp
 2, free-erobooks.com
-2, free-sns.com
 2, free-ss.site
 2, free-strip-games.com
 2, free-wap-tube.com
@@ -10245,7 +10202,6 @@ name = Proxy
 2, fril.jp
 2, fring.com
 2, fringenetwork.com
-2, frishoes.com
 2, fritchy.com
 2, frommel.net
 2, frontiersin.org
@@ -10456,7 +10412,6 @@ name = Proxy
 2, gamcore.com
 2, game-platform.net
 2, game-repack.site
-2, game735.com
 2, gameapps.hk
 2, gamebanana.com
 2, gamebase.com.tw
@@ -10486,6 +10441,7 @@ name = Proxy
 2, gamewtb.com
 2, gamez.com.tw
 2, gaming-notebooks.com
+2, gamma.app
 2, gandhara.ru
 2, gandi.net
 2, ganjing.com
@@ -10924,7 +10880,6 @@ name = Proxy
 2, gmail.com
 2, gmgard.com
 2, gmgn.ai
-2, gmnetworks.net
 2, gmo
 2, gmo-aozora.com
 2, gmo-app.jp
@@ -11053,7 +11008,6 @@ name = Proxy
 2, goodporno.cc
 2, goodreaders.com
 2, goodreads.com
-2, goodsdunk.net
 2, goodsexporn.org
 2, goodsrv.de
 2, goofind.com
@@ -11437,6 +11391,7 @@ name = Proxy
 2, greatgame.asia
 2, greatretroporn.com
 2, green-box-tv.com
+2, greenbean.media
 2, greenbuildingstudio.com
 2, greenend.org.uk
 2, greenlakeaas.com
@@ -11751,20 +11706,12 @@ name = Proxy
 2, hdzog.com
 2, he.net
 2, headlinejobs.hk
-2, headphonepubs.com
-2, headphones-cool.com
 2, headphones-dre.com
 2, headphones-outlet-online.com
 2, headphonesbeatsaudio.com
 2, headphonesbeatsbydre.com
 2, headphoneses.com
-2, headphoneshome.com
-2, headphoneshotsales.com
-2, headphonesol.com
 2, headphonesretailer.com
-2, headphonessupply.com
-2, headphonezip.com
-2, headset987.com
 2, health026.click
 2, healthcarecareeronline.com
 2, healthreach.hk
@@ -12046,10 +11993,8 @@ name = Proxy
 2, hindiweb.com
 2, hindustantimes.com
 2, hinet.net
-2, hipaa6020.com
 2, hiporn.net
 2, hippyhillscomix.com
-2, hipzoom.net
 2, hiroshimabank.co.jp
 2, historylines.net
 2, historyofdota.com
@@ -12080,9 +12025,11 @@ name = Proxy
 2, hkchronicles.com
 2, hkcircleapp.com
 2, hkcitizenmedia.com
+2, hkcitycreation.com
 2, hkcnews.com
 2, hkcoc.com
 2, hkcoc.weather.com.hk
+2, hkcourtnews.com
 2, hkcsl.com
 2, hkdc.us
 2, hkedcity.net
@@ -12093,6 +12040,7 @@ name = Proxy
 2, hkf202311.site
 2, hkf202312.shop
 2, hkfaa.com
+2, hkfeature.com
 2, hkgalden.com
 2, hkgolden.com
 2, hkgolden.media
@@ -12182,7 +12130,6 @@ name = Proxy
 2, hometrack.com.au
 2, hominis.media
 2, homo.xxx
-2, honawalaan.com
 2, honestpornreviews.com
 2, hongjie10.xyz
 2, hongjie11.xyz
@@ -12293,7 +12240,6 @@ name = Proxy
 2, hotstunners.com
 2, hotteenfreecam.com
 2, hottestfilms.com
-2, hottestheadphonesonline.com
 2, hottg.com
 2, hottystop.com
 2, hotvpn.com
@@ -12453,7 +12399,6 @@ name = Proxy
 2, hrecords.jp
 2, hrichina.org
 2, hrntt.org
-2, hrsaz.com
 2, hrtek.ru
 2, hrw.org
 2, hsbc
@@ -12917,7 +12862,6 @@ name = Proxy
 2, ignitesasia.com
 2, igniteseurope.com
 2, igoogle.com
-2, igoshopping.net
 2, igotpornpics.com
 2, igpublish.com
 2, igsonar.com
@@ -13033,7 +12977,6 @@ name = Proxy
 2, ilife.wang
 2, illawarramercury.com.au
 2, illgames.jp
-2, illianacomputerrecycling.com
 2, illusion111.com
 2, illusionas.com
 2, illusionchn.com
@@ -13136,7 +13079,6 @@ name = Proxy
 2, inaporn.com
 2, inasian.club
 2, inbox.ru
-2, incentivetravelgifts.com
 2, incestflix.com
 2, incesto.blog.br
 2, incestporn.xxx
@@ -13625,7 +13567,6 @@ name = Proxy
 2, iphone5casescovers.com
 2, iphone5s5case.com
 2, iphoneacessorios.com.br
-2, iphonecase2013.com
 2, iphonecase5.com
 2, iphonecases100.com
 2, iphonecases5.com
@@ -13738,7 +13679,6 @@ name = Proxy
 2, iskoot.com
 2, islam.org.hk
 2, islamhouse.com
-2, islamiccenterofnewlondon.com
 2, ismaelan.com
 2, ismprofessional.net
 2, isnbank.ru
@@ -14476,7 +14416,6 @@ name = Proxy
 2, kichikuou.com
 2, kick.com
 2, kickporn.com
-2, kickshatchannel.com
 2, kicksnike1.com
 2, kicu.tv
 2, kidgrid.tv
@@ -14621,7 +14560,6 @@ name = Proxy
 2, konamistyle.jp
 2, koolsolutions.com
 2, koornk.com
-2, kopfhorergunstigshop.com
 2, koranmandarin.com
 2, koreanpornmovie.com
 2, korewaeroi.com
@@ -14804,7 +14742,6 @@ name = Proxy
 2, lecoin.cc
 2, lede-project.org
 2, ledger.com
-2, leecountytimes.com
 2, left21.hk
 2, legaltracker.com
 2, legra.ph
@@ -14852,7 +14789,6 @@ name = Proxy
 2, lewdweb.net
 2, lexica.art
 2, lexisnexis.com
-2, lexuemei.com
 2, lezpoo.com
 2, lfai.foundation
 2, lg.com
@@ -14901,6 +14837,7 @@ name = Proxy
 2, lifeatspotify.com
 2, lifemiles.com
 2, lifeselector.com
+2, lifesitenews.com
 2, lifestyle-tec.ru
 2, lifewire.com
 2, lightbridge.com
@@ -15200,7 +15137,6 @@ name = Proxy
 2, lucasentertainment.com
 2, lucasfilm.com
 2, luckydesigner.space
-2, luckyissue.com
 2, luckymobile.ca
 2, luckysrv.de
 2, ludepress.com
@@ -15237,7 +15173,6 @@ name = Proxy
 2, lysol.com
 2, lysol.com.mx
 2, lysol.net
-2, lyzsxx.com
 2, lzjscript.com
 2, lzmtnews.org
 2, m-power.com
@@ -15371,7 +15306,6 @@ name = Proxy
 2, makearmanotwar.com
 2, makebettercode.com
 2, makecode.org
-2, makeeu.com
 2, makeitopen.com
 2, makeitrealcontest.com
 2, makemymood.com
@@ -15386,7 +15320,6 @@ name = Proxy
 2, malayporn.space
 2, malaypornhub.com
 2, mallandrinhas.net
-2, mallheadphone.com
 2, malotogo.ru
 2, malvastudios.com
 2, mamacitaz.com
@@ -15499,6 +15432,7 @@ name = Proxy
 2, massagerepublic.com
 2, masseffect.com
 2, masseffectarchives.com
+2, master-insight.com
 2, mastercad.com
 2, mastercard-email.com
 2, mastercard.ae
@@ -15669,7 +15603,6 @@ name = Proxy
 2, mayijiejie.com
 2, maying.co
 2, mbeats-tech.com
-2, mbheadphone.com
 2, mcadforums.com
 2, mcaf.ee
 2, mcafee.com
@@ -16015,7 +15948,6 @@ name = Proxy
 2, microsofttranslator.com
 2, microsoftuwp.com
 2, microvpn.com
-2, micstl.com
 2, midatlanticbmwmotorcycles.com
 2, midentsolutions.com
 2, midjourney.com
@@ -16545,6 +16477,7 @@ name = Proxy
 2, moneta.ru
 2, money-link.com.tw
 2, moneydj.com
+2, moneynet.com.tw
 2, moneywithfacebook.com
 2, mongodb.com
 2, mongodb.org
@@ -16614,7 +16547,6 @@ name = Proxy
 2, monsterdrebeats-usa.com
 2, monsterdrebeats-usa.net
 2, monsterheadphone.net
-2, monsterproduct.net
 2, monstersbeatbydres.com
 2, monstersdebea.com
 2, monstersexporn.net
@@ -16634,7 +16566,6 @@ name = Proxy
 2, moptt.tw
 2, morazzia.com
 2, more.tv
-2, moreheadphones.com
 2, moresci.sale
 2, morewithautodesk.com
 2, morganclaypool.com
@@ -16898,6 +16829,7 @@ name = Proxy
 2, mxshm.site
 2, my-enema.com
 2, my-formosa.com
+2, my-formosa.com.tw
 2, my-magazine.me
 2, my-manager-account.com
 2, my-private-network.co.uk
@@ -17213,7 +17145,6 @@ name = Proxy
 2, ndi.org
 2, near.by
 2, nebay.net
-2, neborder.com
 2, ned.org
 2, nee4you.com
 2, needforspeed.com
@@ -17325,7 +17256,6 @@ name = Proxy
 2, new2fea.com
 2, new3dcomics.com
 2, newbeatsblackfriday.com
-2, newbemany.com
 2, newbienudes.com
 2, newbrazz.com
 2, newcastlenewslocal.com.au
@@ -17343,7 +17273,6 @@ name = Proxy
 2, newindianexpress.com
 2, newisiknowledge.com
 2, newlineporn.com
-2, newlysprung.net
 2, newmitbbs.com
 2, newmonst1erbeatsto1re.com
 2, newmonsterbeatsheadphones.com
@@ -17363,7 +17292,6 @@ name = Proxy
 2, newsblur.com
 2, newscareers.co.uk
 2, newscdn.com.au
-2, newschristmasshopping.com
 2, newscommercial.co.uk
 2, newsconcierge.com.au
 2, newscorp.com
@@ -17438,7 +17366,6 @@ name = Proxy
 2, nexus-cdn.com
 2, nexusmods.com
 2, nf.id.au
-2, nflhotsalejerseys.com
 2, nflxext.com
 2, nflximg.com
 2, nflximg.net
@@ -17490,7 +17417,6 @@ name = Proxy
 2, nicegram.cloud
 2, niceporn.tv
 2, nicesrv.de
-2, nicesshop.net
 2, nichepornsite.com
 2, nichepornsites.com
 2, nichost.ru
@@ -18135,7 +18061,6 @@ name = Proxy
 2, oed.com
 2, oekakiskey.com
 2, oex.com
-2, offerairjordanlebron.com
 2, office
 2, office.com
 2, office.net
@@ -18154,7 +18079,6 @@ name = Proxy
 2, ofiii.com
 2, ofile.org
 2, ogakikyoritsu.co.jp
-2, ogameblog.com
 2, ogaoga.org
 2, ogate.org
 2, oghost.com.br
@@ -18327,7 +18251,6 @@ name = Proxy
 2, onlytweets.com
 2, onmanorama.com
 2, onsalekey.com
-2, onsaletrend.com
 2, onstream.cc
 2, onthehunt.com
 2, ontrac.com
@@ -18662,7 +18585,6 @@ name = Proxy
 2, patreon.com
 2, patreoncommunity.com
 2, patreonusercontent.com
-2, paulsimon-music.com
 2, pavpal.com
 2, pawchive.pw
 2, pawchive.st
@@ -18946,7 +18868,6 @@ name = Proxy
 2, perfect-privacy.com
 2, perfectgirls.net
 2, perfectgonzo.com
-2, perfectkickz.net
 2, perfectnaked.com
 2, perfectsexnow.com
 2, perfectshemales.com
@@ -18961,7 +18882,6 @@ name = Proxy
 2, persiankitty.com
 2, person.com
 2, personaltrainermath.com
-2, personeelsland.com
 2, pervbank.ru
 2, pervclips.com
 2, perverse.sex
@@ -19016,9 +18936,7 @@ name = Proxy
 2, picasaweb.org
 2, pichunter.com
 2, pickinguppussy.com
-2, picknicekicks.net
 2, pickpackapp.com
-2, pickshoesclothes.com
 2, picnik.com
 2, picpost.com
 2, pics.ee
@@ -19245,7 +19163,6 @@ name = Proxy
 2, pobeda.page
 2, pobl-content.com
 2, pochtabank.ru
-2, pocketbiketrader.com
 2, pocketcasts.com
 2, podbean.com
 2, podcast.co
@@ -19920,6 +19837,7 @@ name = Proxy
 2, pullfolio.co
 2, pullstring.net
 2, pulsebrowser.app
+2, pulsehknews.com
 2, punishbang.com
 2, punishworld.com
 2, pure18.com
@@ -20245,7 +20163,6 @@ name = Proxy
 2, rbplc.com
 2, rbrandlibrary.com
 2, rbsgate.com
-2, rbsgr.com
 2, rbspeakup.com
 2, rbsuat.com
 2, rbth.com
@@ -20407,7 +20324,6 @@ name = Proxy
 2, refah-bank.ir
 2, referer.us
 2, reflectivecode.com
-2, reform-apple.com
 2, reg.cloud
 2, reg.com
 2, reg.ru
@@ -20441,8 +20357,6 @@ name = Proxy
 2, report-megafon.ru
 2, repotama.com
 2, repsils.no
-2, repsneakermall.com
-2, repswing.com
 2, resao.com
 2, researchandcare.org
 2, researchgate.net
@@ -20836,7 +20750,6 @@ name = Proxy
 2, sale-nikeshoes.com
 2, salebeatslasteststyle4you.com
 2, saleblackfridaydrebeats.com
-2, salecheaphandbags.com
 2, salesforce-setup.com
 2, salesforce-sites.com
 2, salesforce.com
@@ -20846,7 +20759,6 @@ name = Proxy
 2, salesforcemarketingcloud.com
 2, salvation.org.hk
 2, sambaporno.com
-2, samebags.com
 2, samsung
 2, samsung.com
 2, samsungapps.com
@@ -20901,7 +20813,6 @@ name = Proxy
 2, sankie.net
 2, sanmin.com.tw
 2, sanspo.com
-2, sanvaras.com
 2, saobjpg.com
 2, saoni91.xyz
 2, saonia.xyz
@@ -21013,7 +20924,6 @@ name = Proxy
 2, scitation.org
 2, scival.com
 2, scmp.com
-2, scnshop.cc
 2, scnsrc.me
 2, scolle.net
 2, scoop.sh
@@ -21391,6 +21301,7 @@ name = Proxy
 2, shahvani.site
 2, shakethesnake.com
 2, shameless.com
+2, shanghainationalparty.com
 2, shaparak.ir
 2, shapelcounset.xyz
 2, share-videos.se
@@ -21472,8 +21383,6 @@ name = Proxy
 2, shizuokabank.co.jp
 2, shockingmovies.com
 2, shodanhq.com
-2, shoers.com
-2, shoestop2.com
 2, shokochukin.co.jp
 2, shonai.co.jp
 2, shooshtime.com
@@ -21522,8 +21431,6 @@ name = Proxy
 2, shopminiusa.com
 2, shopmonsterbeats.com
 2, shoppercentre.com
-2, shopping-days.net
-2, shoppinguheadphones.com
 2, shops-disney.com
 2, shopspeedtv.com
 2, shoptraivip.com
@@ -21815,9 +21722,6 @@ name = Proxy
 2, snapwebcams.com
 2, snbank.ru
 2, sndcdn.com
-2, sneaker666.com
-2, sneakerpage.net
-2, sneakerskick.com
 2, sngb.ru
 2, snjulebu.com
 2, snk-corp.co.jp
@@ -22014,12 +21918,12 @@ name = Proxy
 2, sos.org
 2, sos44.com
 2, sosad.fun
-2, soso7778.com
 2, sosreader.com
 2, sotwe.com
 2, soubory.com
 2, souka.xyz
 2, soulcaliburhentai.net
+2, soulogic.com
 2, soundcloud.cloud
 2, soundcloud.com
 2, soundofhope.eu
@@ -22079,7 +21983,6 @@ name = Proxy
 2, spcc-sp.com
 2, speakerdeck.com
 2, spearhead.kr
-2, specialtyheadphones.com
 2, spectraltube.com
 2, speedcat.me
 2, speeddreamride.com
@@ -22105,7 +22008,6 @@ name = Proxy
 2, spiderpool.com
 2, spiedigitallibrary.org
 2, spigotmc.org
-2, spiritclubs.com
 2, spiritofecstasy.com
 2, spizoo.com
 2, splatoon2tournament.com
@@ -22512,7 +22414,6 @@ name = Proxy
 2, suissl.com
 2, sukafeti.jp
 2, sukebelinks.com
-2, sulwerphoto.com
 2, summerstage.ru
 2, summitceo.ru
 2, sumomo-ch.com
@@ -22522,7 +22423,6 @@ name = Proxy
 2, sundanceignite2016.com
 2, sundayguardianlive.com
 2, sundayready.com
-2, sunglassessale2014.com
 2, sunmedia.ca
 2, suno.ai
 2, suno.com
@@ -22538,7 +22438,6 @@ name = Proxy
 2, supercellid.com
 2, supercellstore.com
 2, supercoach.com.au
-2, superearsenjoy.com
 2, supergratisporno.com
 2, superhqporn.com
 2, superjapanesesex.com
@@ -22556,7 +22455,6 @@ name = Proxy
 2, supervpn.net
 2, superzooi.com
 2, supjav.com
-2, supplybestjerseys.com
 2, support-uber.com
 2, supportfacebook.com
 2, supr.cl
@@ -22689,7 +22587,6 @@ name = Proxy
 2, szabadeuropa.hu
 2, szcheapmonsterheadphones.com
 2, szexvideo.top
-2, szwinnertechnology.com
 2, t-access.ru
 2, t-bank-app.ru
 2, t-bank-app.su
@@ -22752,10 +22649,10 @@ name = Proxy
 2, taiwanncf.org.tw
 2, taiwannews.com.tw
 2, taiwansex.tw
+2, taiwantoday.tw
 2, taiwantt.org.tw
 2, tajimabank.co.jp
 2, take2games.com
-2, takegoto.com
 2, takens.tw
 2, taknai.com
 2, takporn.com
@@ -23035,6 +22932,7 @@ name = Proxy
 2, thecleversense.com
 2, theclub.com.hk
 2, theclubprive.com
+2, thecollectivehk.com
 2, thecompaqstore.com
 2, theconversation.com
 2, thecuckold.com
@@ -23098,6 +22996,7 @@ name = Proxy
 2, thenewslens.com
 2, thenextweb.com
 2, thenipslip.com
+2, theonlinecitizen.com
 2, theopportunityproject.org
 2, thepaypalshop.com
 2, thepervs.com
@@ -23134,6 +23033,7 @@ name = Proxy
 2, thesimssocial.com
 2, thestandard.com.hk
 2, thestandnews.com
+2, thestar.com
 2, thestationbymaker.com
 2, thesun.co.uk
 2, thesun.ie
@@ -23148,7 +23048,6 @@ name = Proxy
 2, thetread.com
 2, thetvdb.com
 2, thetype.com
-2, theuab.net
 2, theverge.com
 2, thevirtualsexreview.com
 2, thewaltdisneycompany.com
@@ -23157,6 +23056,7 @@ name = Proxy
 2, thewgo.org
 2, thewirechina.com
 2, thewitcher.com
+2, thewitnesshk.com
 2, thewonderful101.com
 2, theync.com
 2, theyxxx.com
@@ -23544,7 +23444,6 @@ name = Proxy
 2, tracker.network
 2, tracking-location.com
 2, tradeup.com
-2, tradevip1.com
 2, tradingview.com
 2, trae.ai
 2, trafficmanager.net
@@ -23685,7 +23584,6 @@ name = Proxy
 2, tsyum.com
 2, tt1069.com
 2, ttcdn-us.com
-2, tteshop.com
 2, ttl.com.tw
 2, ttlivecdn.com
 2, ttoverseaus.net
@@ -24095,7 +23993,6 @@ name = Proxy
 2, unseen.is
 2, unsplash.com
 2, unstable.icu
-2, unstyle.us
 2, unusualporn.net
 2, unwire.hk
 2, uo.com
@@ -24212,7 +24109,6 @@ name = Proxy
 2, uygur.fc2web.com
 2, uymaarip.com
 2, v-av.com
-2, v-has.com
 2, v.gd
 2, v.ps
 2, v.recipes
@@ -24597,11 +24493,9 @@ name = Proxy
 2, vip-enterprise.com
 2, vipbeatsbydre.com
 2, vipergirls.to
-2, vipheadphones.com
 2, vipissy.com
 2, vipmatureporn.com
 2, vipoo.es
-2, vipshoes2.com
 2, vipstudiocali.com
 2, viqeo.tv
 2, viqeotv.com
@@ -25266,7 +25160,6 @@ name = Proxy
 2, warp.plus
 2, warroom.org
 2, warthunder.com
-2, wasdj.com
 2, waselpro.com
 2, washa.tv
 2, washingtondcbmw.com
@@ -25504,10 +25397,6 @@ name = Proxy
 2, wholefoodsmarket.com
 2, wholekidsfoundation.org
 2, wholeplanetfoundation.org
-2, wholesale-exporter1.com
-2, wholesalediscountpurses.com
-2, wholesalefine.com
-2, wholesaleonlinemart.com
 2, wholevideos.com
 2, whonix.org
 2, whoreasianporn.com
@@ -25727,6 +25616,7 @@ name = Proxy
 2, wolframalpha.com
 2, wolfsex-me.sbs
 2, wolterskluwer.com
+2, womany.net
 2, wombo.ai
 2, womensnikeshox.com
 2, womenwill.com
@@ -25761,7 +25651,6 @@ name = Proxy
 2, workspaceone.com
 2, workstations.tv
 2, world3d.biz
-2, worldcoinpay.com
 2, worldcuprussia.com
 2, worldcurrencycard.co.za
 2, worldemojiawards.com
