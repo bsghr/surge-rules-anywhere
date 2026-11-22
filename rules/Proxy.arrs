@@ -1,6 +1,6 @@
 name = Proxy
 # Source: ruleset/proxy.txt
-# Rules: 27247
+# Rules: 27270
 
 2, 1password.drift.click
 2, 3dns-1.adobe.com
@@ -5267,6 +5267,7 @@ name = Proxy
 2, bravoteens.com
 2, bravotube.net
 2, bravotube.tv
+2, bravotv.com
 2, brawlstars.com
 2, brawlstarsgame.com
 2, brazilpartneruniversity.com
@@ -6489,6 +6490,7 @@ name = Proxy
 2, cn.shafaqna.com
 2, cna.com.tw
 2, cnbc.com
+2, cnbccouncils.com
 2, cnbcfm.com
 2, cnbeta.com
 2, cnbeta.com.tw
@@ -9372,6 +9374,7 @@ name = Proxy
 2, fantom.foundation
 2, fantom.network
 2, fantv.hk
+2, fanza.jp
 2, fap-xxx.com
 2, fap18.net
 2, fap666.com
@@ -9819,6 +9822,7 @@ name = Proxy
 2, fnmt.es
 2, foampositeshoes.com
 2, fochk.org
+2, focusfeatures.com
 2, focustaiwan.tw
 2, fofg.org
 2, foftolia.com
@@ -11609,6 +11613,7 @@ name = Proxy
 2, hayabusa.media
 2, hayday.com
 2, haydaygame.com
+2, hayu.com
 2, hayya.ae
 2, hbabit.com
 2, hbfile.net
@@ -12054,6 +12059,7 @@ name = Proxy
 2, hkporn.net
 2, hkreadingcity.net
 2, hkreporter.com
+2, hkt
 2, hkt-enterprise.com
 2, hkt-eye.com
 2, hkt.com
@@ -12977,6 +12983,7 @@ name = Proxy
 2, ilife.wang
 2, illawarramercury.com.au
 2, illgames.jp
+2, illumination.com
 2, illusion111.com
 2, illusionas.com
 2, illusionchn.com
@@ -16730,7 +16737,6 @@ name = Proxy
 2, msk.kitazawa.me
 2, msn.com
 2, msn.net
-2, msnbc.com
 2, msnewskids.com
 2, msnewskids.net
 2, msnewskids.org
@@ -17130,8 +17136,11 @@ name = Proxy
 2, nbcolympics.com
 2, nbcsports.com
 2, nbcudigitaladops.com
+2, nbcumv.com
 2, nbcuni.com
+2, nbcunicareers.com
 2, nbcuniversal.com
+2, nbcuniversalprivacy.com
 2, nbdh15.buzz
 2, nbtvpn.com
 2, nbys.tv
@@ -18759,6 +18768,7 @@ name = Proxy
 2, pbxes.org
 2, pc.com
 2, pca.st
+2, pccw
 2, pccw.com
 2, pccwglobal.com
 2, pccwsolutions.com
@@ -20353,6 +20363,7 @@ name = Proxy
 2, renyurenquan.org
 2, renzhe.cloud
 2, repe21.com
+2, replit.com
 2, repo.new
 2, report-megafon.ru
 2, repotama.com
@@ -22815,6 +22826,7 @@ name = Proxy
 2, telegramdownload.com
 2, telekom.com
 2, telekom.de
+2, telemundo.com
 2, telerik.com
 2, telesco.pe
 2, telesec.de
@@ -23406,6 +23418,7 @@ name = Proxy
 2, torrentproject.se
 2, torrenty.org
 2, torrindex.net
+2, tortoisegit.org
 2, tortoisesvn.net
 2, torvpn.com
 2, tosh.comedycentral.com
@@ -23897,6 +23910,7 @@ name = Proxy
 2, udnfunlife.com
 2, udomain.hk
 2, udtrucksmeena.com
+2, udxfpp.com
 2, ueberamazon.de
 2, uflash.tv
 2, uforadio.com.tw
@@ -23974,11 +23988,18 @@ name = Proxy
 2, united.ru
 2, unity.com
 2, unity3d.com
+2, universalbeijingresort.com
+2, universalhorrorunleashed.com
+2, universalkidsresort.com
 2, universalorlando.com
+2, universalpictures.co.uk
 2, universalpictures.com
+2, universalpicturesathome.com
 2, universalpicturesinternational.com
+2, universalproductsexperiences.com
 2, universalscalablefirmware.org
 2, universalstudioshollywood.com
+2, universalukproject.co.uk
 2, universitypressscholarship.com
 2, unknownspace.org
 2, unkoscene.com
@@ -24005,6 +24026,7 @@ name = Proxy
 2, upfrontcfd.com
 2, upfrontfea.com
 2, upghsbc.com
+2, uphe.com
 2, upholdjustice.org
 2, upjav.cc
 2, uplay-istrip.com
@@ -24054,6 +24076,7 @@ name = Proxy
 2, usersdrive.com
 2, usertrust.com
 2, usfk.mil
+2, usj.co.jp
 2, usma.edu
 2, usno.navy.mil
 2, usocial.pro
