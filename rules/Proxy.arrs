@@ -1,6 +1,6 @@
 name = Proxy
 # Source: ruleset/proxy.txt
-# Rules: 27270
+# Rules: 27271
 
 2, 1password.drift.click
 2, 3dns-1.adobe.com
@@ -10598,6 +10598,7 @@ name = Proxy
 2, gemfire.net
 2, gemfury.com
 2, gemini.com
+2, gemma.ai
 2, gen.lib.rus.ec
 2, genbank.ru
 2, gencraft.com
