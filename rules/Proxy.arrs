@@ -1,6 +1,6 @@
 name = Proxy
 # Source: ruleset/proxy.txt
-# Rules: 27271
+# Rules: 27276
 
 2, 1password.drift.click
 2, 3dns-1.adobe.com
@@ -108,6 +108,7 @@ name = Proxy
 2, copilot-telemetry.githubusercontent.com
 2, copilot-workspace.githubnext.com
 2, copilotprodattachments.blob.core.windows.net
+2, courses.myecnu.org
 2, crl.microsoft.com
 2, crl.versign.net
 2, csis-prod.s3.amazonaws.com
@@ -5585,6 +5586,7 @@ name = Proxy
 2, cabletvdirectv.com
 2, cachefly.com
 2, cachefly.net
+2, cachix.org
 2, cacnw.com
 2, cactusvpn.com
 2, cad-mep.com
@@ -9429,10 +9431,12 @@ name = Proxy
 2, fastlane.ci
 2, fastlane.tools
 2, fastly-edge.com
+2, fastly-insights.com
 2, fastly-terrarium.com
 2, fastly.com
 2, fastly.io
 2, fastly.net
+2, fastlydns.net
 2, fastlylabs.com
 2, fastlylb.net
 2, fastpic.ru
@@ -24692,6 +24696,7 @@ name = Proxy
 2, viu.tv
 2, vivaldi.com
 2, vivaxnxx.com
+2, vivox.com
 2, vivthomas.com
 2, vixen.com
 2, vixengroup.com
