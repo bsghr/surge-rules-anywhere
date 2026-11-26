@@ -1,6 +1,6 @@
 name = Proxy
 # Source: ruleset/proxy.txt
-# Rules: 27276
+# Rules: 27287
 
 2, 1password.drift.click
 2, 3dns-1.adobe.com
@@ -15724,12 +15724,14 @@ name = Proxy
 2, megacamz.com
 2, megaeth.com
 2, megafilmporno.com
+2, megafon.cloud
 2, megafon.com
 2, megafon.ru
 2, megafonpro.ru
 2, megalodon.jp
 2, megamon.co.kr
 2, megapay.nz
+2, megapbx.ru
 2, megaphone.fm
 2, megapornfreehd.com
 2, megaporno.com.br
@@ -15737,6 +15739,7 @@ name = Proxy
 2, megaproxy.com
 2, megas4.com
 2, megasrv.de
+2, megatech-it.ru
 2, megatitsminka.com
 2, megogo.net
 2, megurineluka.com
@@ -15830,6 +15833,7 @@ name = Proxy
 2, mgo.com
 2, mgoon.com
 2, mgstage.com
+2, mgts.ru
 2, mh4u.org
 2, mhcb.ru
 2, mhcbr.ru
@@ -16400,6 +16404,7 @@ name = Proxy
 2, mobile01.com
 2, mobilefacebook.com
 2, mobileicq.com
+2, mobileid.ru
 2, mobileinternational.com
 2, mobilemarketo.com
 2, mobileme.dk
@@ -16796,6 +16801,7 @@ name = Proxy
 2, mullvad.net
 2, mult34.com
 2, multicurrencycashpassport.com
+2, multifon.ru
 2, multiply.com
 2, multiplydiversity.com
 2, multporn.net
@@ -18024,6 +18030,7 @@ name = Proxy
 2, o3o.ca
 2, o3t.ru
 2, o3team.ru
+2, o7.com
 2, oaistatic.com
 2, oaistatsig.com
 2, oaiusercontent.com
@@ -18227,6 +18234,7 @@ name = Proxy
 2, onion.ly
 2, onionshare.org
 2, onkakao.net
+2, onlime.ru
 2, online-deals.net
 2, online-instagram.com
 2, online.recoveryversion.org
@@ -20543,6 +20551,7 @@ name = Proxy
 2, roshy.tv
 2, rossiyasegodnya.com
 2, rostaxi.org
+2, rostelecom-rb.ru
 2, rostelecom.ru
 2, rou.video
 2, roudao6.buzz
@@ -21997,6 +22006,7 @@ name = Proxy
 2, spb.com
 2, spbexchange.ru
 2, spcc-sp.com
+2, spd-mgts.ru
 2, speakerdeck.com
 2, spearhead.kr
 2, spectraltube.com
@@ -26059,6 +26069,7 @@ name = Proxy
 2, xn--d1abkf4ap.fun
 2, xn--d1acpjx3f.xn--p1ai
 2, xn--d4ty0ojsqzfd.com
+2, xn--e1aapchhekkk.xn--p1ai
 2, xn--e1adjldbbpv.xn--90ais
 2, xn--e1aigb.xn--p1ai
 2, xn--fiq80y.hk
