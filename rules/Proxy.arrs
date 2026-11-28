@@ -1,6 +1,6 @@
 name = Proxy
 # Source: ruleset/proxy.txt
-# Rules: 27287
+# Rules: 27292
 
 2, 1password.drift.click
 2, 3dns-1.adobe.com
@@ -63,6 +63,7 @@ name = Proxy
 2, assets.ppy.sh
 2, audio-ak-spotify-com.akamaized.net
 2, audio4-ak-spotify-com.akamaized.net
+2, aurora-customization-usw2.lithium.com
 2, avatargarenanow-a.akamaihd.net
 2, az764295.vo.msecnd.net
 2, azure.microsoft.com
@@ -1844,6 +1845,7 @@ name = Proxy
 2, ai91porn.cc
 2, aiaa.org
 2, aiasahi.jp
+2, aicu.cc
 2, aidc.com.tw
 2, aihub.top
 2, aimei133.com
@@ -7039,6 +7041,7 @@ name = Proxy
 2, dandanplay.net
 2, dandanzan.cc
 2, danke4china.net
+2, danmakus.com
 2, danmarkbeatsbydrdre.com
 2, danskpornofilm.com
 2, dansmovies.com
@@ -9499,6 +9502,7 @@ name = Proxy
 2, fc2ppv.tv
 2, fcacebook.com
 2, fcaebook.com
+2, fce.gg
 2, fcebook.com
 2, fcebookk.com
 2, fcfacebook.com
@@ -21978,6 +21982,7 @@ name = Proxy
 2, soyjak.st
 2, sp.cool
 2, spacebattles.com
+2, spacedesk.net
 2, spaceexplored.com
 2, spaceforce.mil
 2, spacely.com.au

@@ -1,6 +1,6 @@
 name = GFW
 # Source: ruleset/gfw.txt
-# Rules: 4481
+# Rules: 4484
 
 2, 000webhost.com
 2, 0rz.tw
@@ -137,6 +137,7 @@ name = GFW
 2, agro.hk
 2, ai.dev
 2, ai.studio
+2, aicu.cc
 2, aidc.com.tw
 2, aihub.top
 2, aiosearch.com
@@ -963,6 +964,7 @@ name = GFW
 2, daliulian.org
 2, danbooru.donmai.us
 2, danke4china.net
+2, danmakus.com
 2, darmau.co
 2, darpa.mil
 2, darrenliuwei.com
@@ -3421,6 +3423,7 @@ name = GFW
 2, southnews.com.tw
 2, southpark.cc.com
 2, sowers.org.hk
+2, spacedesk.net
 2, spaceforce.mil
 2, spaces.hightail.com
 2, spacex.com
